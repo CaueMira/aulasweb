@@ -1,5 +1,5 @@
-const hi = () => {
-console.log(msn);
-}
+const app = document.getElementById("app");
 
-hi("Caue")
+const h1 = document.createElement('h1')
+
+h1.innerHTML = "Burro burro burro, Farid."

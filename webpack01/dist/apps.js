@@ -15,7 +15,7 @@
   \**********************/
 /***/ (() => {
 
-eval("const hi = () => {\nconsole.log(msn);\n}\n\nhi(\"Caue\")\n\n//# sourceURL=webpack://aula01/./src/index.js?");
+eval("var app = document.getElementById(\"app\");\nvar h1 = document.createElement('h1');\nh1.innerHTML = \"Burro burro burro, Farid.\";\n\n//# sourceURL=webpack://aula01/./src/index.js?");
 
 /***/ })
 
